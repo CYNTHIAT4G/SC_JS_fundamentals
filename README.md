@@ -1,5 +1,3 @@
-# SC_JS_fundamentals
-
 # Lesson 1: JavaScript Fundamentals and User Input 🚀
 
 Welcome to Day 1 of JavaScript! In this lesson, we cover the core syntax for writing JavaScript code, declaring variables, taking user input, and joining text together.
@@ -8,9 +6,13 @@ Welcome to Day 1 of JavaScript! In this lesson, we cover the core syntax for wri
 To work on these tasks, you must set up your own copy of the project:
 1. Click the **"Fork"** button at the top right of this repository to create a copy under your own GitHub account.
 2. **Clone** your personal forked repository to your local machine using your terminal:
+   ```bash
    git clone <your-forked-repo-url>
-3. Create your files and practice the tasks locally on your computer.
-4. **DO NOT create a Pull Request (PR)** back to the main classroom repository. All your work stays in your own personal repository!
+   ```
+3. Open the folder in **VS Code** and practice the tasks locally on your computer.
+4. Right-click `index.html` and choose **Open with Live Server** or **Reveal in Finder or File Explorer**
+5. **DO NOT create a Pull Request (PR)** back to the main classroom repository. All your work stays in your own personal repository!
+6. At the end of class, you will save, commit, and push your working responsive design to your personal repository!
 
 ## 📝 What You Will Learn
 * How to add JavaScript directly inside an HTML file
